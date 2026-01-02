@@ -1,0 +1,1 @@
+import{Di as e,Mr as t,Or as n,Qr as r,Yr as i,ki as a}from"./game-logic-lazDr539.js";import{lt as o}from"./index-Clc9yhnd.js";var s=t({__name:`CardDescription`,props:{class:{}},setup(t){let s=t;return(t,c)=>(i(),n(`p`,{"data-slot":`card-description`,class:a(e(o)(`text-muted-foreground text-sm`,s.class))},[r(t.$slots,`default`)],2))}});export{s as t};
